@@ -179,6 +179,3 @@ I'm always interested in discussing software engineering, architecture, Ruby on 
 
 [![GitHub](https://img.shields.io/badge/GitHub-andres--benavides-181717?style=for-the-badge&logo=github)](https://github.com/andres-benavides)
 
----
-
-> *Building software is not only about writing code — it's about understanding the problem, making good engineering decisions, and delivering solutions that create real value.*
